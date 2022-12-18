@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: black;
+display: flex;
+justify-content: center;
+}
+.MainButton{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    width: 180px;
+    height: 60px;
+}
+:hover.MainButton{
+    border-color: white;
+}
